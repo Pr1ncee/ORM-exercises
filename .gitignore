@@ -1,0 +1,4 @@
+.env
+ORM_exercise/__pycache__/
+main/__pycache__/
+.idea
